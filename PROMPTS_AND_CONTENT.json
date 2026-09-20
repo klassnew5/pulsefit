@@ -1,0 +1,63 @@
+{
+  "seo": {
+    "title": "Фитнес-клуб Пульс: расписание тренировок и профессиональные тренеры",
+    "description": "Открой для себя идеальный график занятий и лучших тренеров города!"
+  },
+  "brand": {
+    "name": "Pulse",
+    "industry": "фитнес-клуб Пульс расписание тренеры",
+    "slogan": "Твой ритм здоровья, твои цели — наши тренировки!",
+    "colors": "красный, чёрный",
+    "logo_style": "линия ЭКГ, минимализм"
+  },
+  "hero": {
+    "title": "Тренировки твоей мечты в клубе Пульс",
+    "subtitle": "Расписание тренировок создано специально для тебя.",
+    "description": "Забудь о долгих поисках свободного зала и тренера. У нас удобное расписание и лучшие специалисты рядом с тобой. Запишись уже сегодня и почувствуй разницу!",
+    "cta_text": "Запишись сейчас"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают клуб Пульс?",
+      "content": "Мы создали идеальные условия для твоего прогресса: современные залы, доступные цены и индивидуальный подход от профессиональных тренеров. Забудь о стрессе и скуке — занимайся спортом весело и эффективно!",
+      "features": [
+        "Удобное расписание тренировок",
+        "Профессиональные тренеры с опытом",
+        "Современные тренажёрные залы"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Наши услуги",
+      "items": [
+        {
+          "name": "Индивидуальные тренировки",
+          "description": "Работай над собой под руководством опытного наставника."
+        },
+        {
+          "name": "Групповые занятия",
+          "description": "Сочетание веселья и эффективности в коллективной атмосфере."
+        }
+      ]
+    }
+  ],
+  "image_prompt": "Kandinsky style abstract art, vibrant colors, dynamic shapes, modern aesthetics",
+  "video_prompt": "short 6 seconds video, people running on treadmills, fast cuts, motivational music",
+  "footer": {
+    "copyright": " 2025 Pulse",
+    "contacts": {
+      "email": "info@pulse.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\">\n                <rect width=\"400\" height=\"200\" fill=\"#1a1a1a\"/>\n                <polyline points=\"20,100 80,100 100,60 120,140 140,40 160,160 180,100 380,100\" \n                          fill=\"none\" stroke=\"#e63946\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n                <text x=\"200\" y=\"180\" font-family=\"Arial Black, sans-serif\" font-size=\"28\" \n                      font-weight=\"bold\" fill=\"#e63946\" text-anchor=\"middle\" letter-spacing=\"4\">PULSE</text>\n            </svg>"
+}
